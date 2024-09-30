@@ -6,7 +6,7 @@
     <title>Penjelasan Langkah-Langkah Tugas</title>
 </head>
 <body>
-    <!-- Langkah pertama -->
+   
     <h1>Langkah Pertama</h1>
     <p align="justify">
         Pertama, saya mengatur Tag heading <b>h1</b> untuk judul utama halaman, 
@@ -19,7 +19,7 @@
     <img src="![Screenshot 2024-09-30 200832](https://github.com/user-attachments/assets/05c35397-3159-4b22-977e-457e48ea086d)
 " width="250" height="300" title="312310184" alt="Hasil langkah pertama">
 
-    <!-- Langkah kedua -->
+    
     <h1>Langkah Kedua</h1>
     <p align="justify">
         Pada langkah kedua ini, seperti biasa menggunakan paragraf, 
@@ -33,7 +33,7 @@
     <img src="![Screenshot 2024-09-30 200924](https://github.com/user-attachments/assets/ebfd57a9-e497-4a16-8541-f210733cc761)
 " width="250" height="300" title="312310184" alt="Hasil langkah kedua">
 
-    <!-- Menyisipkan gambar -->
+   
     <h1>Langkah Menyisipkan Gambar</h1>
     <p align="justify">
         Di sini saya menyisipkan gambar dengan atribut <b>src</b> untuk sumber gambar, 
@@ -46,7 +46,7 @@
     <img src="![Screenshot 2024-09-30 201028](https://github.com/user-attachments/assets/2a7b2f2d-8ca8-4dbe-b0d2-c0e9e757a9fc)
 " width="250" height="300" title="312310184" alt="Hasil penyisipan gambar">
 
-    <!-- Langkah terakhir -->
+    
     <h1>Langkah Terakhir</h1>
     <p>
         Menggunakan tag <b>nav</b> untuk membuat navigasi di mana terdapat tautan ke halaman lain. 
